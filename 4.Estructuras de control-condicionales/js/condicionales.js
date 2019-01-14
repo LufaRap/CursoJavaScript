@@ -114,7 +114,7 @@ switch(edad3){
         imprime = "Tu edad es neutra";
     break;
 }
-    console.log(imprime);
+    console.log("Mensaje: " + imprime);
 
 
 
