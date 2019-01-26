@@ -85,7 +85,7 @@ if(year == 2008 || year == 2018){
 if(year == 2008 || (year >= 2018 && year == 2028)){
     console.log("El año acaba en 8");
 }else{
-    console.log("Ël año es diferente");
+    console.log("El año es diferente");
 
 }
 
